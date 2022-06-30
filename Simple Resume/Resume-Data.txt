@@ -57,6 +57,13 @@ Creative Thinking
 Problem solving
 Self motivation
 ability to work under preasure and time management
+Creative Thinking
+Communication
+Time-Management
+Research
+Team Player
+critical Thinking
+
 
 
 
@@ -65,6 +72,18 @@ ability to work under preasure and time management
 1.Looking for a challenging role in a reputable organization to utilize my technical, programming, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
 
 2.Professional .NET Developer with more than three years of experience in the application development process. Involved in product testing,requirement analysis. 
+
+3. I am a qualified and professional web developer with five years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail. 
+
+4. Dedicated and detail-oriented Financial Analyst with 10 years of experience. Eager to apply proven-budget maximization skills for Bank of Brocelle in monitoring, maintaining, and completing client billing and reconciliations. Special interest in achieving the millennial market and helping with retirement and general financial planning.
+
+5. Experienced software engineer with a strong background in developing award-winning strategies for a diverse clientele. 12+ years of industry experience includes leading large engineering teams to achieve concrete goals on a strict deadline. Strong skills include Database management and MySQL, .NET and Java.
+
+6. Motivated software engineer looking to pursue a successful career in software development at Company X, where I can help in the delivery of state-of-the-art software solutions. Experience includes coding, troubleshooting, and testing for my own personal projects while at University X. Relevant skills include PHP, Data Structures, Machine Learning, and Debugging.
+
+7. Motivated software engineer looking to pursue a successful career in software development at a reputable organization. 3+ years of industry experience includes developing application to achieve clients need on a strict deadline. Strong skills include C#.NET and WindowsForms.
+
+
 
 
 ==================================Life Philosophy=============================================
@@ -96,6 +115,49 @@ INTERNSHIP TRAINEE  INNOINTEL GLOBAL PVT LIMITED    Nov 2018 – July 2019      
 
 =================================================================================================
 
+==================================Key Responsibilities===========================================
+
+1. proficiently troubleshot simple and complex technological issues for different assigned projects, achieving customer satisfaction
+	rate.
+
+2. Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and 
+efficieny.
+
+3. Utilized software engineering expertise to develop products throught the software lifecycle to boost business efficiency
+ from ideation and requirements definition through to development and successful deployment.
+
+4. Designed and implemented coal supply chain tracking system windows handheld application for the customer to track the truck 
+	carrying the coal inside the powerplant.
+
+
+5. Designed and Developed Webspider that fetches the website Hyperlinks and text data underlaying HTML code.
+
+6. Designed and Developed Chatbot By Telegram Bot Father API for claiming vehicle Insurance	
+
+
+
+=================================================================================================
+
+===========================================keywords =============================================
+
+Installation
+Troubleshoot
+Equipment
+Improvements
+Updates
+Repair
+Assist
+Resolve
+Set up
+Workflow
+Authentication
+Inspect
+Help desk
+Network
+Operating systems
+Maintain
+Fix
+Customer satisfaction
 
 
 
